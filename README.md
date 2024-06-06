@@ -1,6 +1,6 @@
 # Quick Links
 
-  - [GitHub Pages](https://cstkennedy.github.io/cs410-pages-demo-thursday/)
+  - [GitHub Pages](https://cstkennedy.github.io/cs410-summer-2024-pages-example/)
   - [GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart)
   - [minima Theme](https://github.com/jekyll/minima?tab=readme-ov-file)
 
