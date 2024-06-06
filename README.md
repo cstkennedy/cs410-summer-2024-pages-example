@@ -15,7 +15,8 @@
 
 # Navigation
 
-T.B.W.
+  - [2024.06.04.Teams.Assigned.md](./2024.06.04.Teams.Assigned)
+  - [designDiscussionIterators2.md](./designDiscussionIterators2)
 
 
 # Notes
