@@ -2,7 +2,8 @@
 
   - [GitHub Pages](https://cstkennedy.github.io/cs410-summer-2024-pages-example/)
   - [GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart)
-  - [minima Theme](https://github.com/jekyll/minima?tab=readme-ov-file)
+  - [GitHub Pages Themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#themes)
+  - [Midnight Thenme](https://github.com/pages-themes/midnight)
 
 
 ## HTML & CSS Reference
